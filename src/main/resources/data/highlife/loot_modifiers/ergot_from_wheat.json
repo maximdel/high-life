@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "minecraft:block_state_property",
+      "block": "minecraft:wheat",
+      "properties": {
+        "age": "7"
+      }
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.06
+    }
+  ],
+  "table": "highlife:gameplay/ergot"
+}

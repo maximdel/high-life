@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "highlife:coca_leaf"
+    }
+  ],
+  "result": {
+    "id": "highlife:coca_seeds",
+    "count": 1
+  }
+}

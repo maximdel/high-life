@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "ingredient": {
+    "item": "highlife:coca_leaf"
+  },
+  "result": {
+    "id": "highlife:dried_coca_leaf"
+  },
+  "experience": 0.2,
+  "cookingtime": 100
+}

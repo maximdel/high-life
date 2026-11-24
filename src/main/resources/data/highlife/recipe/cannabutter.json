@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "highlife:ground_cannabis"
+    },
+    {
+      "item": "highlife:ground_cannabis"
+    }
+  ],
+  "result": {
+    "id": "highlife:cannabutter",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "highlife:dried_cannabis"
+    },
+    {
+      "item": "highlife:grinder"
+    }
+  ],
+  "result": {
+    "id": "highlife:ground_cannabis",
+    "count": 2
+  }
+}

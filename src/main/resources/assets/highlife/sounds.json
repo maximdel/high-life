@@ -1,0 +1,109 @@
+{
+  "music.rave": {
+    "sounds": [
+      {
+        "name": "highlife:music/rave",
+        "stream": true
+      }
+    ]
+  },
+  "heartbeat": {
+    "sounds": [
+      "highlife:heartbeat"
+    ]
+  },
+  "smoke.inhale": {
+    "sounds": [
+      "highlife:smoke/inhale"
+    ],
+    "subtitle": "subtitles.highlife.smoke.inhale"
+  },
+  "smoke.exhale": {
+    "sounds": [
+      "highlife:smoke/exhale"
+    ],
+    "subtitle": "subtitles.highlife.smoke.exhale"
+  },
+  "smoke.cough": {
+    "sounds": [
+      "highlife:smoke/cough1",
+      "highlife:smoke/cough2",
+      "highlife:smoke/cough3"
+    ],
+    "subtitle": "subtitles.highlife.smoke.cough"
+  },
+  "bong.bubble": {
+    "sounds": [
+      "highlife:bong/bubble"
+    ],
+    "subtitle": "subtitles.highlife.bong.bubble"
+  },
+  "lighter.flick": {
+    "sounds": [
+      "highlife:lighter/flick"
+    ],
+    "subtitle": "subtitles.highlife.lighter.flick"
+  },
+  "dose.snort": {
+    "sounds": [
+      "highlife:dose/snort"
+    ],
+    "subtitle": "subtitles.highlife.dose.snort"
+  },
+  "dose.pill": {
+    "sounds": [
+      "highlife:dose/pill"
+    ],
+    "subtitle": "subtitles.highlife.dose.pill"
+  },
+  "dose.balloon": {
+    "sounds": [
+      "highlife:dose/balloon"
+    ],
+    "subtitle": "subtitles.highlife.dose.balloon"
+  },
+  "trip.chime": {
+    "sounds": [
+      "highlife:trip/chime1",
+      "highlife:trip/chime2",
+      "highlife:trip/chime3"
+    ]
+  },
+  "trip.whisper": {
+    "sounds": [
+      "highlife:trip/whisper1",
+      "highlife:trip/whisper2",
+      "highlife:trip/whisper3"
+    ]
+  },
+  "trip.whoosh": {
+    "sounds": [
+      "highlife:trip/whoosh"
+    ]
+  },
+  "trip.machine_elf": {
+    "sounds": [
+      "highlife:trip/machine_elf1",
+      "highlife:trip/machine_elf2",
+      "highlife:trip/machine_elf3"
+    ]
+  },
+  "salvia.rumble": {
+    "sounds": [
+      "highlife:trip/rumble"
+    ]
+  },
+  "drone.k_hole": {
+    "sounds": [
+      {
+        "name": "highlife:trip/k_hole_drone",
+        "stream": true
+      }
+    ]
+  },
+  "nitrous.wah": {
+    "sounds": [
+      "highlife:trip/nitrous_wah"
+    ]
+  }
+}

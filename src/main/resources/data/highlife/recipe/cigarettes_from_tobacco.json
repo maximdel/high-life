@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "highlife:dried_tobacco"
+    }
+  ],
+  "result": {
+    "id": "smokebreak:cigarette",
+    "count": 3
+  }
+}

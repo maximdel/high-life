@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "highlife:salvia_leaf"
+    }
+  ],
+  "result": {
+    "id": "highlife:salvia_seeds",
+    "count": 1
+  }
+}

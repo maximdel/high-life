@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://github.com/maximdel/high-life/issues"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+logoFile="highlife_logo.png"
+displayURL="https://github.com/maximdel/high-life"
+authors="drunkgamblers"
+description='''
+Grow cannabis, tobacco, coca and salvia, forage magic mushrooms, and cook up LSD, speed, ecstasy, ketamine, nitrous and DMT.
+Each one has its own screen effects, sounds, chat effects and side effects. Smoke Break add-on: roll joints from its cigarettes,
+light them with its lighter, and vape Cannabis Distillate in any of its vapes.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="smokebreak"
+    type="required"
+    versionRange="[2.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

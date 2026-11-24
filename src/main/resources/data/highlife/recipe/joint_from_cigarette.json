@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "smokebreak:cigarette"
+    },
+    {
+      "item": "highlife:ground_cannabis"
+    }
+  ],
+  "result": {
+    "id": "highlife:joint",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "highlife:cannabis",
+    "highlife:tobacco",
+    "highlife:coca",
+    "highlife:salvia"
+  ]
+}

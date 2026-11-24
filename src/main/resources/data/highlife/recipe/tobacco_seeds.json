@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "highlife:tobacco_leaf"
+    }
+  ],
+  "result": {
+    "id": "highlife:tobacco_seeds",
+    "count": 1
+  }
+}

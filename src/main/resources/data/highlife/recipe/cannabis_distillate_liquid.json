@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "smokebreak:empty_liquid_bottle"
+    },
+    {
+      "item": "highlife:ground_cannabis"
+    },
+    {
+      "item": "highlife:ground_cannabis"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "id": "smokebreak:liquid_bottle",
+    "count": 1,
+    "components": {
+      "smokebreak:liquid": {
+        "liquid": "highlife:cannabis_distillate",
+        "amount": 10000
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "values": {
+    "highlife:cannabis_seeds": {
+      "chance": 0.3
+    },
+    "highlife:tobacco_seeds": {
+      "chance": 0.3
+    },
+    "highlife:coca_seeds": {
+      "chance": 0.3
+    },
+    "highlife:salvia_seeds": {
+      "chance": 0.3
+    },
+    "highlife:salvia_leaf": {
+      "chance": 0.65
+    },
+    "highlife:cannabis_bud": {
+      "chance": 0.65
+    },
+    "highlife:tobacco_leaf": {
+      "chance": 0.65
+    },
+    "highlife:coca_leaf": {
+      "chance": 0.65
+    },
+    "highlife:magic_mushroom": {
+      "chance": 0.65
+    }
+  }
+}

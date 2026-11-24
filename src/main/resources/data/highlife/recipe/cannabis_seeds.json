@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "highlife:cannabis_bud"
+    }
+  ],
+  "result": {
+    "id": "highlife:cannabis_seeds",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "highlife:cannabis_bud"
+  },
+  "result": {
+    "id": "highlife:dried_cannabis"
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}

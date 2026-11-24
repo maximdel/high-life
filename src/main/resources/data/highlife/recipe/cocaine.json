@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "highlife:dried_coca_leaf"
+    },
+    {
+      "item": "highlife:dried_coca_leaf"
+    },
+    {
+      "item": "highlife:dried_coca_leaf"
+    },
+    {
+      "item": "highlife:dried_coca_leaf"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "id": "highlife:cocaine",
+    "count": 2
+  }
+}

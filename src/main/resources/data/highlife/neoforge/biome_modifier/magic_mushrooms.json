@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:dark_forest",
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "minecraft:mushroom_fields",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:taiga",
+    "minecraft:lush_caves"
+  ],
+  "features": "highlife:magic_mushroom_patch",
+  "step": "vegetal_decoration"
+}

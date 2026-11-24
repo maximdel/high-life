@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "ingredient": {
+    "item": "highlife:tobacco_leaf"
+  },
+  "result": {
+    "id": "highlife:dried_tobacco"
+  },
+  "experience": 0.2,
+  "cookingtime": 600
+}

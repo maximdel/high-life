@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "entries": [
+    "highlife:cannabis_seeds_from_grass",
+    "highlife:tobacco_seeds_from_grass",
+    "highlife:coca_seeds_from_jungle_grass",
+    "highlife:coca_seeds_from_grass",
+    "highlife:magic_mushroom_from_mushrooms",
+    "highlife:salvia_seeds_from_grass",
+    "highlife:ergot_from_wheat"
+  ]
+}
